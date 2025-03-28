@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e35dfa3-f696-45b9-bf4d-eb369461c8e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula03/src/Banco/Contabancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula03/src/Biblioteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula03/src/Biblioteca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ProdutoCorreto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ProdutoCorreto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex01/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex01/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex01/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex01/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex02/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex02/Biblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex02/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex02/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex03/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex03/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex03/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex03/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex04/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex04/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/src/ex04/Escola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula03_modelo/src/ex04/Escola.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2uYTYOED3VHEteJaoRIlwHGdCe7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Main01.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e35dfa3-f696-45b9-bf4d-eb369461c8e0" name="Changes" comment="" />
+      <created>1742424561336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742424561336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main01.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
